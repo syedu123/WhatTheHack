@@ -37,7 +37,7 @@ For detailed information refer below [Architecture](https://github.com/Microsoft
  
 [Azure Quickstart - Create an Azure Automation account](https://docs.microsoft.com/en-us/azure/automation/automation-quickstart-create-account)
 
-SAP Library - Tools for Monitoring the System
+[SAP Library - Tools for Monitoring the System] (https://help.sap.com/saphelp_aii710/helpdata/en/f7/cb8577bc244a25a994fc3f9c16ce66/frameset.htm)
 
 Azure Automation Start/Stop VMs during off-hours overview | Microsoft Docs
 
